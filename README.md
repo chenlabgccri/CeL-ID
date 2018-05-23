@@ -10,3 +10,6 @@ Example_DP.txt - It shows depth of coverage (DP) values for first thousand varia
 
 
 Example_FREQ.txt - It shows frequency (FREQ) values for first thousand variants derived from CCLE RNA-seq dataset.
+
+
+COSMIC70_matched files - Complete list of COSMIC 70 matched variants with DP and FREQ values, respectively (compressed format).
