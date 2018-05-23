@@ -3,7 +3,7 @@ CeL-ID is a new method developed for cell line authentication using variant prof
 
 
 
-Data Files:Due to size limitations we have uploaded only truncated version (1K) variants of data file. Complete data is available on request.
+Data Files:Due to size limitations we have uploaded only truncated version (1K) variants of data file. Complete data is available on request from mohammadt@uthscsa.edu OR chenY8@uthscsa.edu.
 
 
 Example_DP.txt - It shows depth of coverage (DP) values for first thousand variants derived from CCLE RNA-seq dataset.
