@@ -24,4 +24,4 @@ Example_FREQ.txt - It shows frequency (FREQ) values for first thousand variants 
 
 COSMIC70_matched files - Complete list of COSMIC 70 matched variants with DP and FREQ values, respectively (compressed format).
 
-If you have any questions, please contact us at either mohammadt@uthscsa.edu OR chenY8@uthscsa.edu.
+If you have any questions, please contact us at mohammadt@uthscsa.edu OR chenY8@uthscsa.edu.
