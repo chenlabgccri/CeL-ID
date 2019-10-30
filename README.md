@@ -3,7 +3,7 @@ CeL-ID is a new method developed for cell line authentication using variant prof
 
 
 
-Data Files: Due to size limitations we have only uploaded COSMIC70 matched data files here. Complete variants data can be downloaded from following links:
+Data Files: Due to size limitations we have only uploaded COSMIC70 matched data files here. Complete variants data files can be downloaded from following links:
 
 CCLE_FREQ.txt:     https://uthscsa.box.com/s/53xzna3mdv8mrxt6w9838glqe9vvrxvu
 
